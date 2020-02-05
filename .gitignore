@@ -1,2 +1,8 @@
 *.txt
 *.zip
+/.idea/.gitignore
+/.idea/autosearch.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+.idea/
